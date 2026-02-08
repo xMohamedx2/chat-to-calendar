@@ -4,7 +4,7 @@
 
 A production-quality Next.js application that converts conversational schedule requests into exportable calendar events using OpenAI's Structured Outputs API. Built for recruiters to evaluate modern full-stack engineering skills.
 
-[View Live Demo](#) <!-- TODO: Add Vercel deployment URL -->
+<img width="1173" height="650" alt="Screenshot 2026-02-07 at 9 55 10 PM" src="https://github.com/user-attachments/assets/00d58a1a-167f-4e51-a750-74d0cb820b0f" />
 
 ---
 
